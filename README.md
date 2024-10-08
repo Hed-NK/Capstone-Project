@@ -1,4 +1,4 @@
-# Capstone-Project
+# Clustering-Project
 The main objective of this project is to 
 
 The following steps were performed:

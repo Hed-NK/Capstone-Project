@@ -1,5 +1,6 @@
 # Clustering-Project
-The main objective of this project is to 
+
+The goal of this project is to study infectious diseases based on the county, year, and sex and be able to use the understanding to make prediction for future cases. 
 
 The following steps were performed:
 1. Data Collection
